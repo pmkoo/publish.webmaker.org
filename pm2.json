@@ -4,7 +4,7 @@
      
 
     {
-    name        : "public",
+    name        : "publish",
     script      : "./server.js",
     
     watch       : true,
