@@ -1,5 +1,6 @@
 "use strict";
 
+
 // Initialize the environment before anything else happens
 require(`./lib/environment`);
 
